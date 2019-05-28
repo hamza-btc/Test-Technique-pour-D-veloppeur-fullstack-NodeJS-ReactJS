@@ -18,8 +18,9 @@ Pour la troisième exercice "Front_end" concernant l'ajout d'un effet parallaxe 
       - En ajout le nom de class "mega" dans le HTML. 
        -Pour activer l'effet de défilement parallaxe, vous pouvez utiliser les attributs data-paroller- * sur les éléments sélectionnés ou          définir des valeurs via jQuery.'facteur' définit la vitesse et la distance de l'effet de parallaxe de l'élément sur le défilement.
        et finalement j'ai ajouter le class "mega" et les et les propriétés de bibliothèque paralox.js dans mes 3 images .
-       
-       <img alt="Suite Club" class="mega align-center" data-paroller-factor="0.1" data-paroller-type="foreground" src="img/suiteclub/2m-          min.jpg"> 
+         
+         
+           <img alt="Suite Club" class="mega align-center" data-paroller-factor="0.1" data-paroller-type="foreground"                                   src="img/suiteclub/2m-min.jpg"> 
        
          <img alt="Suite Club" class="mega align-center" data-paroller-factor="0.1" data-paroller-type="foreground"                                 src="img/suiteclub/2m-min.jpg">
          
@@ -27,3 +28,4 @@ Pour la troisième exercice "Front_end" concernant l'ajout d'un effet parallaxe 
           <ul>
               <li class="mega align-center" data-paroller-factor="0.2" data-paroller-transition="transform .2s linear" data-paroller-                       type="foreground"><img alt="piscine" src="img/accueil/accueil55m-min.jpg"></li>
             /ul>
+     
